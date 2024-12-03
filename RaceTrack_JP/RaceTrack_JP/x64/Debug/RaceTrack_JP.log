@@ -1,0 +1,7 @@
+﻿  RaceTrack_JP.cpp
+C:\Users\JOSHP\source\repos\RaceTrack_JP\RaceTrack_JP\RaceTrack_JP.cpp(29,10): warning C4309: 'argument': truncation of constant value
+C:\Users\JOSHP\source\repos\RaceTrack_JP\RaceTrack_JP\RaceTrack_JP.cpp(32,10): warning C4309: 'argument': truncation of constant value
+C:\Users\JOSHP\source\repos\RaceTrack_JP\RaceTrack_JP\RaceTrack_JP.cpp(33,10): warning C4309: 'argument': truncation of constant value
+C:\Users\JOSHP\source\repos\RaceTrack_JP\RaceTrack_JP\RaceTrack_JP.cpp(34,10): warning C4309: 'argument': truncation of constant value
+C:\Users\JOSHP\source\repos\RaceTrack_JP\RaceTrack_JP\RaceTrack_JP.cpp(109,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RaceTrack_JP.vcxproj -> C:\Users\JOSHP\source\repos\RaceTrack_JP\x64\Debug\RaceTrack_JP.exe

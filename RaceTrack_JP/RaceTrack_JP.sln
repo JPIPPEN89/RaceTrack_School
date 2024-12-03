@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RaceTrack_JP", "RaceTrack_JP\RaceTrack_JP.vcxproj", "{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Debug|x64.ActiveCfg = Debug|x64
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Debug|x64.Build.0 = Debug|x64
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Debug|x86.Build.0 = Debug|Win32
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Release|x64.ActiveCfg = Release|x64
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Release|x64.Build.0 = Release|x64
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Release|x86.ActiveCfg = Release|Win32
+		{850CDC0A-5AFC-41F3-8DE6-7C2841C22F7F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02F3E752-C3B4-4E63-A829-DCA3C9BF1C39}
+	EndGlobalSection
+EndGlobal
